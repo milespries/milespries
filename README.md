@@ -10,3 +10,6 @@ I'm a computer science student passionate about creating web applications  that 
 - Learning SVG design and animation (Lottie)
 - Finishing my personal website
 - Making & Contributing to more open source projects
+
+## 📫 Let's Connect
+- **Email**: milespries@outlook.com
